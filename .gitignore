@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Images / binary artifacts
+*.webp
+
+# Large / scratch notebooks
+SingleTargetPrediction_Abhay-Copy1.ipynb
+
+# Sample / API JSON files
+*API JSON sample*.json
+Technology sector - screener API JSON sample.json
+
